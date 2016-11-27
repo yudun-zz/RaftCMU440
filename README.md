@@ -4,7 +4,8 @@ A Raft Implementation Practice
 
 This repository contains the starter code for a raft implementation and a suite of tests framework to help test your implementation. 
 
-For what is Raft and how to implement the Raft Please refer to the annotated Raft paper in this repo.
+For what is Raft and how to implement the Raft Please refer to the annotated Raft paper in this repo. 
+You will also find  [This link](https://raft.github.io/) is very useful.
 
 In this project you will set up a **distributed replicated in-memory key-value store** using Raft to gurantee concensus. It support 2 operations:
 
